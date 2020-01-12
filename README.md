@@ -9,3 +9,7 @@ This repo contains the lilypond files and python scripts needed to generate nota
 ## Structure
 There are three different types of material used in the piece for ease of description, I’ll use simple primary color names to explain the types. The recurrence of a particular type of material is based on permutations of a pitch class. These permutations arise from two transposition paths (m3-p4-m6, p4-m6-j2-j6), having traced out these paths, it becomes clear how often a particular class of pitch recurs. To emphasise the fact that some pitches recur more frequently than others, the instrumentation is designed in a way so as to emphasize different colorings of pitch. 
 The piece therefore is not really about the pitches themselves, but rather about the sound of transitioning between the different instrumental colors.
+
+## Copyright
+The music contained in the piano quartet score is registered copyright with Austro Mechana AKM.
+The python scripts and lilypond files are open source and free to modify, distribute or reuse in anyway you see fit.
