@@ -1,0 +1,21 @@
+
+Workflow for AllOfOld score
+
+
+Piano Prep Basis Material: 
+- Generate left hand piano with ...ModuleX.py
+- Copy Material into score AllOfOld_piano.ly
+
+Blue Block:
+- Define music functions for r.h. piano, vln, cello, synth
+- Call objects in score
+
+Red Block: 
+- Create Python module to generate r.h. piano material (permutations of octave transpositions)
+- Define music functions for r.h. piano containing material from ...Red.py
+- Define music functions for other instruments
+- Call objects in score
+
+Green Block:
+- Define music functions for all instruments
+- Call objects in score
